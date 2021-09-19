@@ -13,6 +13,5 @@ Create a web application using create-react-app
 
 4. Show a loader while the API fetches the data. 
 
-5. Use custom CSS/SASS/styled-components. 
-6. 
+5. Use custom CSS/SASS/styled-components.
 
